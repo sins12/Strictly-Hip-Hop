@@ -1,0 +1,98 @@
+#mainpic{
+  padding:20px;
+  margin:20px;
+  display:inline-block;
+  vertical-align:top;
+  float:right;
+  width:24%;
+  height:inherent;
+  text-align:center;
+
+  border-radius:15px;
+}
+#mainpic img{
+  width:90%;
+  border-radius:8px;
+}
+#mainpic p{
+  padding:15px;
+  display:block;
+}
+article{
+  display:block;
+  width:67%;
+  text-align:justify;
+  padding:20px;
+  margin:20px;
+  font-size:120%;
+  border-radius:15px;
+  font-family:arial;
+}
+#scroll{
+	height: 20em;
+	width: 100%;
+	overflow: auto;
+	border: 1px solid #666;
+}
+#page h2{
+  width:50%;
+  margin-left:15%;
+  font-family:rapolice;
+}
+h2{
+  text-align:justify;
+  padding:10px;
+  width:40%;
+  margin:auto;
+}
+#corps h3{
+  text-align:center;
+  font-family:rapolice;
+}
+#corps h4{
+  text-align:center;
+  font-family:rapolice;
+}
+#redir{
+  display:block;
+  float:right;
+  position:relative;
+  top:-280px;
+  left:-9%;
+  text-align:center;
+}
+a{
+  text-decoration:none;
+}
+#redir img{
+  border-radius:10px;
+  height:80px;
+  margin:auto;
+}
+#redir p{
+  display:block;
+  padding:0;
+  margin:0;
+  color:black;
+}
+#redirrapeur{
+  border:2px black solid;
+  border-radius:10px;
+  padding: 8%;
+}
+#rediralbum{
+  border:2px black solid;
+   border-radius:10px;
+  padding:8%;
+}
+#redirrapeur:hover{
+	background-color: rgba(180, 180, 180, 1);
+}
+#rediralbum:hover{
+	background-color: rgba(180, 180, 180, 1);
+}
+iframe{
+  padding:1%;
+  margin-top:1%;
+  margin:auto;
+}

@@ -1,0 +1,153 @@
+#mainpic{
+  padding:20px;
+  margin:20px;
+  display:inline-block;
+  vertical-align:top;
+  float:right;
+  width:24%;
+  height:inherit;
+  text-align:center;
+	margin-top:-1%;
+  border-radius:15px;
+}
+
+#mainpic img{
+	width:90%;
+	border-radius:15px;
+	border: solid 1px black;
+}
+
+#mainpic h5 {
+	font-size: 120%;
+	margin: 1%;
+}
+
+#page p{
+	margin-top:-1%;
+  padding:15px;
+  display:block;
+}
+
+
+article{
+  display:block;
+  width:67%;
+  text-align:justify;
+  padding:20px;
+  margin:20px;
+  font-size:120%;
+  border-radius:15px;
+  font-family:arial;
+}
+#redir{
+  border:2px solid black;
+  border-radius:15px;
+  padding:0;
+  margin:20px;
+}
+aside{
+  width:48%;
+  margin:10px;
+  padding:0;
+  text-align:center;
+  display:inline-block;
+  border:2px solid black;
+  border-radius:15px;
+}
+
+
+#scroll h5{
+		height:10%;
+	text-align:center;
+	font-weight:bold;
+	font-size:110%;
+	color:black;	
+}
+
+
+.lettregras{
+	font-size:150%;
+	
+}
+#raps{
+  text-align:center;
+}
+aside img{
+  width:150px;
+  height:150px;
+  margin:20px 30px;
+  display:inline-block;
+  vertical-align:top;
+}
+
+#page h2{
+  font-family:rapolice;
+}
+h2{
+  text-align:justify;
+  padding:10px;
+  width:40%;
+  margin:auto;
+}
+h3{
+	height:10%;
+	text-align:center;
+	font-family:rapolice;
+	font-weight:bold;
+	font-size:160%;
+	color:black;
+}
+
+#corps h4{
+	height:10%;
+	text-align:center;
+	font-family:rapolice;
+	font-weight:bold;
+	font-size:100%;
+	color:black;
+}
+
+#son{
+	display: inline-block;
+	margin-top: -7%;
+	padding:0;
+	width: 90%;
+}
+	
+	article #son audio{
+		margin-top: 50px;
+		float: right;
+		padding: 0;
+		width: 60%;
+	}
+	article #son p {
+		
+		float:left;
+		width:30%;
+		font-size: 110%;
+		font-family: arial;
+		margin: 0;
+		padding: 0;
+	}
+	article #son h5 {
+		width:40%;
+		margin-top:0px;
+		margin-right:140px;
+		text-align: right;
+		height: 10px;
+		padding-top:15px;
+		float: right;
+		font-size: 110%;
+		font-family: arial;
+	}
+
+article h5{
+  text-align:center;
+  margin-top:-20px;
+  margin-bottom:50px;
+	text-align:center;
+	font-family:rapolice;
+	font-size:130%
+}
+		
+		

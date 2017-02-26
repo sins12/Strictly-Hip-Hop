@@ -1,0 +1,90 @@
+#mainpic{
+  padding:20px;
+  margin:20px;
+  display:inline-block;
+  margin-top:40px;
+  float:right;
+  width:24%;
+  height:inherit;
+  text-align:center;
+  border-radius:15px;
+}
+#mainpic img{
+  width:84%;
+  border-radius:15px;
+}
+#page p{
+  padding:15px;
+  display:block;
+}
+article{
+  display:block;
+  width:67%;
+  text-align:justify;
+  padding:10px;
+  margin:20px;
+  font-size:120%;
+  border-radius:15px;
+  font-family:arial;
+}
+
+article h5{
+  text-align:center;
+  margin-top:-20px;
+  margin-bottom:50px;
+}
+#redir{
+  border:2px solid black;
+  border-radius:15px;
+  padding:0;
+  margin:20px;
+}
+#redir h4{
+  font-family:rapolice;
+}
+aside{
+  width:47.2%;
+  margin:10px;
+  padding:0;
+  text-align:center;
+  display:inline-block;
+  border:2px solid black;
+  border-radius:15px;
+}
+#raps{
+  text-align:center;
+}
+aside img{
+  width:20%;
+  height:120px;
+  margin:10px 30px;
+  display:inline-block;
+  vertical-align:top;
+}
+#albs{
+  float:right;
+  text-align:center;
+}
+#page h2{
+  font-family:rapolice;
+}
+h2{
+  text-align:justify;
+  padding:10px;
+  width:40%;
+  margin:auto;
+}
+
+h3{
+	margin-top:-4%;
+	text-align:center;
+	font-family:rapolice;
+	font-size:130%
+}
+
+#corps  h5{
+	text-align:center;
+	font-family:rapolice;
+	font-size:130%
+}
+

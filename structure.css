@@ -1,0 +1,109 @@
+#mainpic{
+  padding:20px;
+  margin:20px;
+  display:inline-block;
+  vertical-align:top;
+  float:right;
+  width:24%;
+  height:inherit;
+  text-align:center;
+  border-radius:15px;
+  margin-top:4%;
+}
+#mainpic img{
+  width:70%;
+  border-radius:15px;
+}
+#page p{
+  padding:25px;
+  display:block;
+}
+article{
+  display:block;
+  width:67%;
+  text-align:justify;
+  padding:20px;
+  margin:20px;
+  font-size:120%;
+  border-radius:15px;
+  font-family:arial;
+}
+#redir{
+  border:2px solid black;
+  border-radius:15px;
+  padding:0;
+  margin:20px;
+}
+aside{
+  width:47.92%;
+  margin:10px;
+  padding:0;
+  text-align:center;
+  display:inline-block;
+  border:2px solid black;
+  border-radius:15px;
+}
+
+
+.lettregras{
+	font-size:150%;
+	
+}
+#raps{
+  text-align:center;
+}
+aside img{
+  width:20%;
+  height:120px; 
+  margin:20px 30px;
+  display:inline-block;
+  vertical-align:top;
+}
+
+
+#image:hover{
+	background-color: rgba(180, 180, 180, 1);
+	border:1px black solid;
+	border-radius:9px;
+}
+
+#page h2{
+  font-family:rapolice;
+}
+h2{
+  text-align:justify;
+  padding:10px;
+  width:40%;
+  margin:auto;
+}
+#corps h3{
+	height:10%;
+	text-align:center;
+	font-family:rapolice;
+	font-weight:bold;
+	font-size:130%;
+	color:black;
+}
+
+
+#scroll h4{
+	height:10%;
+	text-align:center;
+	font-family:rapolice;
+	font-weight:bold;
+	font-size:130%;
+	color:black;
+}
+
+#corps  h5{
+	text-align:center;
+	font-family:rapolice;
+	font-size:130%
+}
+
+article h5{
+  text-align:center;
+  margin-top:-20px;
+  margin-bottom:50px;
+}
+
